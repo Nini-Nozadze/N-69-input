@@ -1,0 +1,83 @@
+body{
+    background-color: #e0e0e0;
+}
+
+div{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border: 1px 48% #F4B4B47A;
+    display: block;
+    margin:auto;
+    margin-top: 131px;
+    background-color: #F5F5F5;
+
+}
+
+.img{
+    width: 359px;
+    height: 200.52px;
+    border-radius: 4.59px;
+    font-weight: 500;
+    size: 16px;
+    color: #616161;
+    margin-left: 41px;
+    margin-top: 15px;
+    margin-right: 41px;
+
+}
+.p_email{
+    color: #616161;
+    margin-left: 41px;
+    font-weight: 500;
+}
+.email{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    margin-left: 41px;
+    margin-top: 0;
+
+}
+
+.email::placeholder{
+    color: #9E9E9E;
+    font-weight: 500;
+
+}
+
+.p_password{
+    color: #616161;
+    margin-left: 41px;
+    font-weight: 500;
+}
+
+.password{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    margin-left: 41px;
+}
+
+.password::placeholder{
+    color: #9E9E9E;
+    font-weight: 500;
+
+}
+
+
+.bb{
+    width: 315px;
+    height: 45px;
+   background-color: #6756CB;
+   border-radius: 10px;
+   margin-left: 41px;
+   border: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700px;
+    margin-top: 15px;
+}
